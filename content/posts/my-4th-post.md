@@ -1,7 +1,7 @@
 ---
 title: "My 4th Post"
 date: 2018-03-15T09:34:53-04:00
-draft: true
+draft: false
 ---
 
 Testing 4th post, 
