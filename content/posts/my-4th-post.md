@@ -2,6 +2,8 @@
 title: "My 4th Post"
 date: 2018-03-15T09:34:53-04:00
 draft: false
+tags: [ "Development", "Go", "fast", "Blogging" ]
+categories: [ "Development" ]
 ---
 
 Testing 4th post, 
@@ -80,3 +82,13 @@ Notice how quick that was. Try to refresh the site before it’s finished buildi
 ## Step 4. Have fun
 
 The best way to learn something is to play with it.
+
+Test image
+
+![0180325203951_](C:\Program Files (x86)\Steam\userdata\88713439\760\remote\48000\screenshots\20180325203951_1.jpg)
+
+
+
+test img 2
+
+![Image result for limbo game final](https://orig00.deviantart.net/3b26/f/2012/301/1/1/limbo__reunion_by_anneliesse666-d5j870q.png)

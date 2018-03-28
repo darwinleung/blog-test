@@ -4,6 +4,10 @@ title = "DL"
 theme = "hyde"
 
 [params]
-    description = "Darwin Leung's personal blog"
+    description = "Darwin's personal blog"
     copyright = "Built with Hugo and Hyde ©2018. All rights reserved."
     themeColor = "theme-base-0g" # for hyde theme
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
